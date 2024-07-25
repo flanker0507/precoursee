@@ -11,7 +11,6 @@ func main() {
 	fmt.Println("Saya Batch 36")
 	fmt.Println("Saya Batch 37")
 	fmt.Println("Saya Batch 38")
-	fmt.Println("Saya Batchit add 38")
 =======
 >>>>>>> d356013 (first commit)
 }
