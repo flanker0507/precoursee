@@ -14,6 +14,8 @@ func main() {
 	fmt.Println("Saya Batch 38")
 	fmt.Println("Saya Batch 38")
 	fmt.Println("Saya Batch 38")
+	fmt.Println("Saya Batch 38")
+	fmt.Println("Saya Batch 38")
 =======
 >>>>>>> d356013 (first commit)
 }
